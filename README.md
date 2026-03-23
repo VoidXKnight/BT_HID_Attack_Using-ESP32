@@ -1,6 +1,8 @@
 # BT_HID_Attack_Using-ESP32
 The ESP32 is a small, inexpensive, and powerful microcontroller chip made by Espressif Systems. It’s super popular for electronics projects, IoT devices, and hobby experiments.
 
+[esp.png](esp.png)
+
 ## **What the ESP32 Can Do**
 
 The ESP32 includes:
@@ -59,7 +61,7 @@ You can program the ESP32 using:
 - **ESP‑IDF (official SDK)**
 - **MicroPython**
 
-![image.png](attachment:9c957b18-1d2d-4246-89e0-18eb0e502c7a:image.png)
+[image.png](image.png)
 
 ## **ESP32 as a Bluetooth HID Device**
 
