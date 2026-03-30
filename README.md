@@ -143,8 +143,10 @@ void loop() {
 
 The ESP32 is a powerful little microcontroller that can do way more than basic electronics projects. With its built‑in Bluetooth features, it can act as a wireless keyboard and automate actions with a single button press. This simple setup shows how easy it is to trigger actions on a paired device — safely, and with minimal hardware.
 
-Document By Maruti Marathe
+# Contact By Maruti Marathe
 
-🌐 Portfolio: ryuzakila.github.io/m
+Portfolio: ryuzakila.github.io/m
 
-🐙 GitHub: github.com/RyuzakiLa | ✍ Medium: medium.com/@RyuzakiLa
+GitHub: github.com/RyuzakiLa 
+
+Medium: medium.com/@RyuzakiLa
