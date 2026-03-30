@@ -145,8 +145,6 @@ The ESP32 is a powerful little microcontroller that can do way more than basic e
 
 ### Contact By Maruti Marathe
 
-Portfolio: ryuzakila.github.io/m
+GitHub: [github.com/RyuzakiLa ](https://github.com/VoidXKnight)
 
-GitHub: github.com/RyuzakiLa 
 
-Medium: medium.com/@RyuzakiLa
